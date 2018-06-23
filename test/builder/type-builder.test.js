@@ -1,9 +1,9 @@
 require('should');
-require('requirish')._(module);
-var tl = require('lib/builder/type-builder');
-var ConstructorBuilder = require('lib/builder/constructor-builder');
-var TypeObject = require('lib/type-object');
-var TypeVector = require('lib/type-vector');
+
+var tl = require('../../lib/builder/type-builder');
+var ConstructorBuilder = require('../../lib/builder/constructor-builder');
+var TypeObject = require('../../lib/type-object');
+var TypeVector = require('../../lib/type-vector');
 
 describe('TypeBuilder', function () {
 

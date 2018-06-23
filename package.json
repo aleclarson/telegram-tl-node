@@ -22,7 +22,6 @@
   "dependencies": {
     "colors": "1.1.2",
     "get-log": "latest",
-    "requirish": "latest",
     "jsbn": "0.0.0"
   },
   "devDependencies": {

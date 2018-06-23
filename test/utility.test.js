@@ -1,7 +1,7 @@
 require('should');
-require('requirish')._(module);
-var TypeObject = require('lib/type-object');
-var utility = require('lib/utility');
+
+var TypeObject = require('../lib/type-object');
+var utility = require('../lib/utility');
 
 describe('utility', function () {
 
